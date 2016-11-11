@@ -1,0 +1,36 @@
+{
+	"text": "OmniSharp ►",
+	"id": "omniSharp_menu",
+	"nw_id": "next",
+	"items": [
+		{
+			"text": "Refactor ►",
+			"id": "omniSharp_refactor",
+			"nw_id": "next",
+			"items": [
+				{ "text": "Rename", "id": "omniSharp_refactor_rename" },
+				{},
+				{ "text": "Back ◄", "nw_id": "back" },
+				{ "text": "Close", "nw_id": "close" }
+			]
+		},
+		{},
+		{ "text": "Goto Definition", "id": "omniSharp_goto_definition" },
+		{ "text": "Find Implementations", "id": "omniSharp_find_implementations" },
+		{ "text": "Find Type", "id": "omniSharp_find_type" },
+		{ "text": "Find Symbol", "id": "omniSharp_find_symbol" },
+		{ "text": "Find Usages", "id": "omniSharp_find_usages" },
+		{},
+		{ "text": "Find Members", "id": "omniSharp_find_members" },
+		{},
+		{ "text": "Fix Issue", "id": "omniSharp_fix_issue" },
+		{ "text": "Fix Usings", "id": "omniSharp_fix_usings" },
+		{ "text": "Type Lookup", "id": "omniSharp_type_lookup" },
+		{},
+		{ "text": "Navigate Up", "id": "omniSharp_navigate_up" },
+		{ "text": "Navigate Down", "id": "omniSharp_navigate_down" },
+		{},
+		{ "text": "Back ◄", "nw_id": "back" },
+		{ "text": "Close", "nw_id": "close" }
+	]
+}

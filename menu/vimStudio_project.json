@@ -1,0 +1,12 @@
+{
+	"text": "OmniSharp ►",
+	"id": "omniSharp_menu",
+	"nw_id": "next",
+	"items": [
+		{ "text": "Build", "id": "omniSharp_build" },
+		{ "text": "Edit References", "id": "omniSharp_edit_references" },
+		{},
+		{ "text": "Back ◄", "nw_id": "back" },
+		{ "text": "Close", "nw_id": "close" }
+	]
+}

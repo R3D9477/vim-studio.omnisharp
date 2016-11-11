@@ -1,0 +1,34 @@
+{
+	"platforms": {
+		"all": {
+			"settings": [
+				["vimStudio", "projectType", "omniSharp"],
+				["omniSharp", "host", "http://localhost:2000"],
+				["omniSharp", "timeout", 1],
+				["omniSharp", "startServer", true],
+				["omniSharp", "activeConfig", "Debug"],
+				["omniSharp", "activeConfig", "Exe"]
+			]
+		},
+		"bsd": {
+			"settings": [
+				["omniSharp", "compiler", "xbuild"]
+			]
+		},
+		"linux": {
+			"settings": [
+				["omniSharp", "compiler", "xbuild"]
+			]
+		},
+		"mac": {
+			"settings": [
+				["omniSharp", "compiler", "xbuild"]
+			]
+		},
+		"windows": {
+			"settings": [
+				["omniSharp", "compiler", "msbuild"]
+			]
+		}
+	}
+}
